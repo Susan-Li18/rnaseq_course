@@ -2,3 +2,5 @@ data/raw_data
 data/processed_data
 logs
 reports
+data/external_data
+tmp.sh
