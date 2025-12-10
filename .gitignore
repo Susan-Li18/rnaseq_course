@@ -4,3 +4,7 @@ logs
 reports
 data/external_data
 tmp.sh
+sam2bam.sh
+fastp.html
+fastp.json
+settings.json
