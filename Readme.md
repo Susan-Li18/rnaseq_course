@@ -20,7 +20,7 @@ graph TB
   H --> I[MultiQC<br/> QC Report]
   I --> J[R script<br/> Differential Gene Expression Analysis]
 ```
-#### **Upstream Analysis_Gene Expression Quantification**
+
 #### **Project Structure**
 
 ```
@@ -53,6 +53,8 @@ rnaseq_project folder structure
 │   └── multiqc_report/           # Integrated QC report
 └── README.md                     # This document
 ```
+
+#### **Upstream Analysis_Gene Expression Quantification**
 #### **Prerequisites**
 - Required Apptainer
     - fastqc-0.12.1.sif 
