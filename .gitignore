@@ -8,3 +8,9 @@ sam2bam.sh
 fastp.html
 fastp.json
 settings.json
+.Rhistory
+PCA_plot.png
+cnet_plot.pdf
+dot_plot.png
+point_plot_gene.pdf
+volcano_plot.png
