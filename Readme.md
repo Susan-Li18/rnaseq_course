@@ -20,7 +20,7 @@ graph TB
   H --> I[MultiQC<br/> QC Report]
   I --> J[R script<br/> Differential Gene Expression Analysis]
 ```
-
+#### **Upstream Analysis_Gene Expression Quantification**
 #### **Project Structure**
 
 ```
@@ -213,6 +213,7 @@ processed_data/featureCounts/
 # --ignore: ignore the no need files
 sbatch ./scripts/11_run_multiQC.sh
 ```
+#### **Downstream Analysis_Differential Gene Expression Analysis**
 ##### Step 11: Differential Gene Expression Analysis
 ##### Stage 1. Preparation
 ###### R and RStudio version
